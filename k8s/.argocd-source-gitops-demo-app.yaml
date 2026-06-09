@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - fitrinshl/gitops-demo-app:v1.0.5
